@@ -1,0 +1,2 @@
+This is namaste node.js course by Akshay Saini
+Concepts to be covered : Node.js , MongoDb , Projects , Authentication , Javascript 
