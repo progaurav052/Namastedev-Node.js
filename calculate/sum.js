@@ -7,4 +7,7 @@ function calculateSum(a,b){
 
 }
 
-module.exports = {calculateSum};
+module.exports ={
+    x,calculateSum
+}
+
