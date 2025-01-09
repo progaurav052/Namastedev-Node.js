@@ -12,5 +12,3 @@ console.log(b);
 // so an standard is made , same as globalThis , which is supported accross all now 
 calculateSum(a,b);
 console.log(x);
-
-
